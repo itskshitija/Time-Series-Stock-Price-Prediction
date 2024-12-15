@@ -12,5 +12,16 @@
 - [Models Used](#models-used)
 
 ## Objective
+To analyze the Tesla stock price dataset by conducting thorough Exploratory Data Analysis and developing forecasting models to predict future stock trends. 
 
+## Project Flow
+- Data Ingestion
+- Exploratory Data Analysis
+- Data Transformation
+- Model building
+- Analysis
+
+## Models Used 
+- ARIMA (autoregressive integrated moving average)
+- SARIMA (Seasonal Autoregressive Integrated Moving Average)
 
